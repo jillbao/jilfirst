@@ -1,1 +1,1 @@
-This is the second file. name2
+This is the second file. name2. master new name3.
