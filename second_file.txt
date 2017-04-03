@@ -1,1 +1,1 @@
-This is the second file that I added to my project. shorten_name--name2
+This is the second file that I added to my project. shorten_name--name2, name3
